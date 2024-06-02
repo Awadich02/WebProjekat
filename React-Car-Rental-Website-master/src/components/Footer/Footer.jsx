@@ -75,3 +75,5 @@ const Footer = () => {
 };
 
 export default Footer;
+/*
+What do I need to fix in folder structure and code so that my project runs. In my React-Car-Rental-Website-master I want to have a completely different page for login and registering an account that opens when i press either login or registruj se. Hard code me one admin and one user with email and password. If I login with admin it takes me to mern-admin-master dashboard and if I login as a user it takes me to the home page of React-Car-Rental-Website-master and gives me logout option instead of login and registruj se */ 
